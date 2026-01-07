@@ -7,3 +7,6 @@ As of 2025-12-31: This dashboard is in the process of revision for reasons state
 2. Reverse geocoding is being performed through R and Nomatim for geographical, neighbourhood, and police district analysis. Due the Nomatim's nature of being a public API,
    the geocoding rate limit is capped at a maximum of one per second. With a dataset of over 76,000 rows of data, and speed at which my MacBook processes reverse geocodes
    all spatial coordinates, additional time is required. 
+
+Due to ongoing issues with uploading the dashboard to the Public Power BI Service for publishing, screenshots of pages have been added to the repository,
+showcasing the generated visuals, and DAX measures computed.
